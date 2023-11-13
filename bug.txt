@@ -1,1 +1,2 @@
 by self/attacker
+by victim
